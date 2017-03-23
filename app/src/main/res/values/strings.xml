@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">tts-android</string>
+    <string name="print_engines">print engines</string>
+    <string name="play">Play</string>
+    <string name="test_string">The below example demonstrates the use of TextToSpeech class. It crates a basic application that allows you to set write text and speak it.</string>
 </resources>

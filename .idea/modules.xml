@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-tts-android.iml" filepath="$PROJECT_DIR$/StudioProjects-tts-android.iml" group="tts-android" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/tts-android.iml" filepath="$PROJECT_DIR$/tts-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/tts-android-app.iml" filepath="$PROJECT_DIR$/app/tts-android-app.iml" group="tts-android/app" />
     </modules>
   </component>
 </project>
